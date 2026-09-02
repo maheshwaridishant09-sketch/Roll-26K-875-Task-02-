@@ -1,1 +1,17 @@
-# Roll-26K-875-Task-02-
+# Dishant Maheshwari 
+
+## Education
+- **BSCS**
+  *FAST NUCES Karachi*
+
+## Skills
+- C Programming
+-  GitHub
+
+## Projects
+- PF Lab Task 03
+
+## Hobbies & Extracurriculars  
+1. Reading Books
+2. Playing Cricket
+3. Learning coding 
