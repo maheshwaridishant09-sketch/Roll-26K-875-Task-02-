@@ -11,7 +11,7 @@
 ## Projects
 - PF Lab Task 03
 
-## Hobbies & Extracurriculars  <-- ye sabse last mein
+## Hobbies & Extracurriculars  
 1. Reading Books
 2. Playing Cricket
 3. Learning coding 
